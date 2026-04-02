@@ -1,6 +1,4 @@
-以下是一个适合你三个DDPM实现文件的README文档，包含了项目简介、文件说明、运行方式、依赖项等内容。
 
-```markdown
 # DDPM 实现对比：从零实现到使用扩散库
 
 本项目包含三个不同实现层次的 DDPM（Denoising Diffusion Probabilistic Models）模型，用于在 MNIST 数据集上生成手写数字图像。三个文件分别展示了：
